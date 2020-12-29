@@ -6,4 +6,13 @@ authors: ['_Hetag1216_']
 commands:
   rs:
     usage: /<command>
-    description: BD main command
+    description: RS main command
+permissions:
+  runessay.command.admin: 
+    default: op
+    description: Access to all commands.
+    children:
+      runessay.command.list: true
+      runessay.command.say: true
+      runessay.command.version: true
+      runessay.language.*: true
