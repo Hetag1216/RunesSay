@@ -1,0 +1,9 @@
+name: RunesSay
+main: com.hetag.runessay.RunesSay
+version: 1.0
+api-version: 1.13
+authors: ['_Hetag1216_']
+commands:
+  rs:
+    usage: /<command>
+    description: BD main command
