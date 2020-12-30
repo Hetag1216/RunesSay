@@ -9,9 +9,11 @@ An easy way of returning to the lost Norse knowledge and secret language.
 • /rs help <command>
 
 • /rs list <language> <page> - Shows the available runes for the specified language
+
 *Hover with your cursor on a rune to find out its meaning!
  
 • /rs say <language> - Translates a message to runic for the runes of the specified language
+
 *Color codes using '&' are not yet supported!
  
 • /rs version - Shows information about the plugin
