@@ -16,3 +16,6 @@ permissions:
       runessay.command.say: true
       runessay.command.version: true
       runessay.language.*: true
+  runessay.language.elderfuthark: 
+   default: true
+   description: Grants access to the elderfuthark language
