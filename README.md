@@ -1,8 +1,8 @@
-![Core Icon](https://cdn.discordapp.com/attachments/595364073147728025/793787464040316948/RunesSay.png)
+![Core Icon](https://media.discordapp.net/attachments/526075869987471360/793789984280543232/unknown.png)
 
 An easy way of returning to the lost Norse knowledge and secret language.
 
-![Core Icon](https://cdn.discordapp.com/attachments/595364073147728025/793787721763520512/RS_Commands.png)
+![Core Icon](https://media.discordapp.net/attachments/595364073147728025/793791177324625930/RS_Commands.jpg)
 
 • /rs - Shows plugin's help lines
 
@@ -16,7 +16,7 @@ An easy way of returning to the lost Norse knowledge and secret language.
  
 • /rs version - Shows information about the plugin
 
-![Core Icon](https://cdn.discordapp.com/attachments/595364073147728025/793788240733667348/RS_Permissions.jpg)
+![Core Icon](https://media.discordapp.net/attachments/595364073147728025/793791620348772382/RS_Permissions.jpg)
 
 • runessay.command.help - Grants access to /rs help command
 
