@@ -46,5 +46,4 @@ public class SayCommand extends RSCommand {
 			player.chat(translation);
 		}
 	}
-	
 }

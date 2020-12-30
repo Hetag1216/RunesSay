@@ -10,7 +10,7 @@ import com.hetag.runessay.configuration.Manager;
 public class VersionCommand extends RSCommand {
 
 	public VersionCommand() {
-		super("version", "/bd version", formatColors(Manager.getConfig().getString("Commands.Version.Description")), new String[] { "version", "v" });
+		super("version", "/rs version", formatColors(Manager.getConfig().getString("Commands.Version.Description")), new String[] { "version", "v" });
 	}
 
 	@Override
