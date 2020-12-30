@@ -1,11 +1,13 @@
-# RunesSay
- An easy way of returning to the lost Norse knowledge and secret language.
 ![Core Icon](https://cdn.discordapp.com/attachments/595364073147728025/793787464040316948/RunesSay.png)
+
 An easy way of returning to the lost Norse knowledge and secret language.
 
 ![Core Icon](https://cdn.discordapp.com/attachments/595364073147728025/793787721763520512/RS_Commands.png)
+
 • /rs - Shows plugin's help lines
+
 • /rs help <command>
+
 • /rs list <language> <page> - Shows the available runes for the specified language
 *Hover with your cursor on a rune to find out its meaning!
  
@@ -15,6 +17,7 @@ An easy way of returning to the lost Norse knowledge and secret language.
 • /rs version - Shows information about the plugin
 
 ![Core Icon](https://cdn.discordapp.com/attachments/595364073147728025/793788240733667348/RS_Permissions.jpg)
+
 • runessay.command.help - Grants access to /rs help command
 • runessay.command.say- Grants access to /rs say command
 • runessay.command.list- Grants access to /rs list command
@@ -33,4 +36,5 @@ Please report any issues at https://github.com/Hetag1216/RunesSay/issues.
 
 Join now the discord for live support and live updates on the projects!
 ![Core Icon](https://cdn.discordapp.com/attachments/595364073147728025/687819024457007140/discord_header.png)
+
 https://discord.gg/yqs9UJs
